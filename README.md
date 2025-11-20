@@ -25,7 +25,7 @@ Creates a path of ice that stuns and damages enemies that touches it.
 - Stun duration: 1.25/1.5/1.75/2.0s
 - Damage: 50
 
-### Desolate [passive]
+### Desolate [passive]:
 Deals additional damage whenever an enemy without allied units within a radius is damaged. 
 - Damage type: pure
 - Can ignore spell immunity: true
