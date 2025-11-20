@@ -33,7 +33,7 @@ Deals additional damage whenever an enemy without allied units within a radius i
 - Damage: 25/40/55/70 (by levels)
 - Radius: 350
 
-### Aphotic Shield
+### Aphotic Shield:
 Creates an all damage barrier that absorbs a set amount of damage and bursts when it expires or is destroyed, dealling damage equal to the amount absorbed. Has strong dispel effect upon activation.
 - Damage type: magical
 - Can ignore spell immunity: false
