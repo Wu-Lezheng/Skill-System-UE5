@@ -1,4 +1,4 @@
-# Skill-System-UE5
+# Skill System UE5
 An RPG skill system built using Unreal Engine 5.5. It has 4 implemented skills and different types of enemies for demo purposes. The relevant files are listed in the **`latest release`** on the right.
 
 ## Skills Implemented
